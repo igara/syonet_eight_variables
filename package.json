@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "private": true,
-  "main": "./dist/index.js",
+  "main": "./dist/lib-name.cjs",
+  "module": "./dist/lib-name.mjs",
+  "exports": {
+    "import": "./dist/lib-name.mjs",
+    "require": "./dist/lib-name.cjs"
+  },
   "dependencies": {}
 }

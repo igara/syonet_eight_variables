@@ -13,7 +13,7 @@
     "emitDeclarationOnly": true,
     "baseUrl": "./",
     "paths": {
-      "@design_system/*": ["./*"]
+      "@variables/*": ["./*"]
     }
   },
   "include": ["../../types/**.ts", "src/*"]
