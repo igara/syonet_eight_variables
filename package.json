@@ -1,0 +1,8 @@
+{
+  "name": "syonet_eight_variables",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "./dist/index.js",
+  "dependencies": {}
+}
