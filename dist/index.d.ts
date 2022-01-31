@@ -32,3 +32,5 @@ export declare type BackupQiitaList = {
         html: string;
     };
 }[];
+export declare const backupHatenaDetailtURI: (hatenaPostTitle: string) => string;
+export declare const backupQiitaDetailtURI: (qiitaPostTitle: string) => string;
