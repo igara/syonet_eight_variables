@@ -34,3 +34,4 @@ export declare type BackupQiitaList = {
 }[];
 export declare const backupHatenaDetailURI: (hatenaPostTitle: string) => string;
 export declare const backupQiitaDetailURI: (qiitaPostTitle: string) => string;
+export declare const githubProfileURI = "https://raw.githubusercontent.com/igara/igara/master/README.html";

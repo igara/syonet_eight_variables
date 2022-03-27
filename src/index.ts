@@ -41,3 +41,5 @@ export const backupHatenaDetailURI = (hatenaPostTitle: string) =>
   `https://raw.githubusercontent.com/igara/hatenablog-export/master/data/igara1119/${hatenaPostTitle}/README.html`;
 export const backupQiitaDetailURI = (qiitaPostTitle: string) =>
   `https://raw.githubusercontent.com/igara/qiita-export/master/data/igara/${qiitaPostTitle}/README.html`;
+export const githubProfileURI =
+  'https://raw.githubusercontent.com/igara/igara/master/README.html';
